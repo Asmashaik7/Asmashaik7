@@ -1,5 +1,5 @@
 👋 Hi, I'm Asma Shaik
-🔁 Career Restart | 💻 Aspiring Data Analyst | 🐍 Python & 🧠 SQL Learner
+🔁 Career Restart | 💻 Aspiring Data Analyst | 🐍 Python, Excel & 🧠 SQL Learner
 
 💡 About Me
 I'm currently upskilling myself in Python and SQL, working on real-world mini projects and daily tasks to restart my career after a 10-year gap. I'm passionate about data, logic building, and consistency in learning — every line of code I write is a step forward.
@@ -44,7 +44,7 @@ SQLite3
 
 Power BI (Basics)
 
-Excel (VLOOKUP, XLOOKUP)
+Excel (VLOOKUP, XLOOKUP, INDEX, MATCH, AGGREGATE functions, PIVOT Tables)
 
 VS Code
 
