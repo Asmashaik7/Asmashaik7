@@ -1,17 +1,27 @@
 👋 Hi, I'm Asma Shaik
-🔁 Career Restart | 💻 Aspiring Data Analyst | 🐍 Python, Excel & 🧠 SQL Learner
+🔁 Career Restart | 💻 Aspiring Data Analyst | 🐍 Python, Excel , Power BI & 🧠 SQL Learner
 
 💡 About Me
-I'm currently upskilling myself in Python and SQL, working on real-world mini projects and daily tasks to restart my career after a 10-year gap. I'm passionate about data, logic building, and consistency in learning — every line of code I write is a step forward.
+I'm currently upskilling myself in Python,SQL and Power BI, working on real-world mini projects and daily tasks to restart my career after a 10-year gap. I'm passionate about data, logic building, creativity and consistency in learning — every line of code I write is a step forward.
 
 🚀 What I'm Learning
-Python (Projects, Logic Building, Functions, CLI-based apps)
+### Python  
+- Building logic and problem-solving skills  
+- Functions, error handling, CLI-based apps  
+- Projects: Library Management System, Student Course Enrollment System  
 
-SQL (Queries, GROUP BY, JOINs, HAVING, DISTINCT)
+### SQL  
+- Practiced: `GROUP BY`, `HAVING`, `DISTINCT`, `WHERE`, `COUNT(DISTINCT)`  
+- Writing queries with filtering, grouping, and aggregations  
+- Mini projects integrating SQL with Python  
 
-Power BI basics
+### Power BI  
+- Created dashboards in Power BI Desktop  
+- Understanding of fact vs dimension tables  
+- Knowledge of chart types (stacked, clustered, 100%)  
+- Familiar with Power BI Service vs Desktop differences (refresh, sharing, workspace) 
 
-VS Code as my daily coding environment
+###VS Code as my daily coding environment
 
 📁 Current Projects
 Day-wise SQL + Python Assignments
@@ -42,7 +52,7 @@ Python
 
 SQLite3
 
-Power BI (Basics)
+Power BI 
 
 Excel (VLOOKUP, XLOOKUP, INDEX, MATCH, AGGREGATE functions, PIVOT Tables)
 
@@ -62,7 +72,7 @@ Day	Assignment	Status
 6	Power BI Chart	✅ Done
 7	Student Course Enrollment	✅ Done
 8	Company Project Tracker	✅ Done
-9+	SQL Practice (GROUP BY, HAVING...)	🔄 Ongoing
+9+	SQL Practice (GROUP BY, HAVING...)	✅ Done
 
 🔗 Let's Connect (Coming Soon)
 Stay tuned for my portfolio link and resume!
