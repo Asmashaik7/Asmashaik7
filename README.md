@@ -19,21 +19,29 @@ I'm currently upskilling myself in Python,SQL and Power BI, working on real-worl
 - Created dashboards in Power BI Desktop  
 - Understanding of fact vs dimension tables  
 - Knowledge of chart types (stacked, clustered, 100%)  
-- Familiar with Power BI Service vs Desktop differences (refresh, sharing, workspace) 
+- Familiar with Power BI Service vs Desktop differences (refresh, sharing, workspace)
+- Familiar with some DAX queries
 
 ###VS Code as my daily coding environment
 
 📁 Current Projects
 Day-wise SQL + Python Assignments
 
-Project Tracker System
+1. Project Tracker System
 
-Library Management CLI
+2. Library Management CLI
 
-Student Course Enrollment App ✅
+3. Student Course Enrollment App ✅ and many
 
-TCS Data Analytics Project
 
+Power BI - Projects
+1. Credit Card Customer and Transaction Analysis - Created 2 dashboards each for Customer analysis and Transaction analysis
+2. SuperStores Sales Dashboard
+3. SN Corps sales Dashboard
+
+Job Simulations
+1. TCS Data Analytics Project by Forage
+  
 🎯 Goals
 Build job-ready portfolio
 
@@ -53,6 +61,8 @@ Python
 SQLite3
 
 Power BI 
+
+SQL
 
 Excel (VLOOKUP, XLOOKUP, INDEX, MATCH, AGGREGATE functions, PIVOT Tables)
 
