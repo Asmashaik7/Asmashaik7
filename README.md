@@ -56,6 +56,7 @@ Gain fluency in technical communication in English
 And every day you sit down and code, you’re rewriting your comeback story.” – Codey
 
 📊 Tools & Technologies
+
 Python
 
 SQLite3
