@@ -79,7 +79,7 @@ Day	Assignment	Status
 2	Sales Report App	✅ Done
 3	Product Revenue System	✅ Done
 4	Python Functions + File Handling	✅ Done
-5	Library Management System	✅ Done
+5	Library Book Management System	✅ Done
 6	Power BI Chart	✅ Done
 7	Student Course Enrollment	✅ Done
 8	Company Project Tracker	✅ Done
