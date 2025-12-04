@@ -65,6 +65,8 @@ Power BI
 
 SQL
 
+Pandas
+
 Excel (VLOOKUP, XLOOKUP, INDEX, MATCH, AGGREGATE functions, PIVOT Tables)
 
 VS Code
