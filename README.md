@@ -73,6 +73,8 @@ VS Code
 
 Jupyter Notebook
 
+Google Collab
+
 AI Models: ChatGPT (Codey), Claude, Gemini
 
 📝 Progress Tracker (Sample)
