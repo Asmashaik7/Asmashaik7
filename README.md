@@ -1,97 +1,105 @@
-👋 Hi, I'm Asma Shaik
-🔁 Career Restart | 💻 Aspiring Data Analyst | 🐍 Python, Excel , Power BI & 🧠 SQL Learner
+👋 Hi, I'm **Asma Shaik**
 
-💡 About Me
-I'm currently upskilling myself in Python,SQL and Power BI, working on real-world mini projects and daily tasks to restart my career after a 10-year gap. I'm passionate about data, logic building, creativity and consistency in learning — every line of code I write is a step forward.
+🌱 **Tech Learning Journey: Python | SQL | Power BI | Projects & Progress**  
+📚 Continuous Learner | 💡 Self-Driven & Consistent  
 
-🚀 What I'm Learning
-### Python  
-- Building logic and problem-solving skills  
-- Functions, error handling, CLI-based apps  
-- Projects: Library Management System, Student Course Enrollment System  
+🧠 Learning consistently and confidently through real, hands-on projects  
+🔁 Returning to tech after a planned career break and rebuilding my skills step by step
 
-### SQL  
-- Practiced: `GROUP BY`, `HAVING`, `DISTINCT`, `WHERE`, `COUNT(DISTINCT)`  
-- Writing queries with filtering, grouping, and aggregations  
-- Mini projects integrating SQL with Python  
+---
 
-### Power BI  
-- Created dashboards in Power BI Desktop  
-- Understanding of fact vs dimension tables  
-- Knowledge of chart types (stacked, clustered, 100%)  
-- Familiar with Power BI Service vs Desktop differences (refresh, sharing, workspace)
-- Familiar with some DAX queries
+## 🌱 About Me
 
-###VS Code as my daily coding environment
+I'm transitioning into the tech field with a focus on **Python development, SQL, and Power BI**.  
+After a planned career break, I am rebuilding my technical foundation with hands-on projects, structured learning, and consistent practice.
 
-📁 Current Projects
-Day-wise SQL + Python Assignments
+I believe in learning by doing — every project I build represents progress, not perfection.
 
-1. Project Tracker System
+---
 
-2. Library Management CLI
+## 🚀 Skills & Learning Journey
 
-3. Student Course Enrollment App ✅ and many
+### 🐍 Python
+- Core syntax, functions, loops, error handling
+- File handling, user input, modular code structure
+- Beginner OOP concepts (classes, objects)
+- Python + SQLite integration
+- Flask basics (routing, templates)
 
+#### 🛠 Python Projects:
+- Company Project Tracker (CRUD + SQL)
+- Student Course Enrollment System
+- Library Management CLI System
+- Mini Flask Web App
 
-Power BI - Projects
-1. Credit Card Customer and Transaction Analysis - Created 2 dashboards each for Customer analysis and Transaction analysis
-2. SuperStores Sales Dashboard
-3. SN Corps sales Dashboard
+---
 
-Job Simulations
-1. TCS Data Analytics Project by Forage
-  
-🎯 Goals
-Build job-ready portfolio
+### 🧠 SQL
+- SELECT, DISTINCT, WHERE, ORDER BY
+- Aggregate functions: COUNT(), SUM(), AVG(), MAX(), MIN()
+- JOINs (INNER, LEFT), Subqueries
+- GROUP BY, HAVING, COUNT DISTINCT
+- CRUD operations and real problem solving
 
-Practice interview-style SQL/Python daily
+---
 
-Learn error debugging through hands-on practice
+### 📊 Power BI
+- Data modeling (Fact vs Dimension)
+- ETL concepts, Data cleaning, Relationships
+- Creating dashboards and reports
+- DAX basics (measures, calculated columns)
+- Time-Series forecasting visuals
+- Publishing to Power BI Service
 
-Gain fluency in technical communication in English
+#### 📁 Power BI Projects:
+- Credit Card Customer & Transaction Insights
+- Superstore Sales Analysis Dashboard
+- SN Corps Sales Performance Dashboard
+- Sales Forecasting (Time-Series)
 
-🧠 Favorite Quote
-“You’re not late. You’re just on your path.
-And every day you sit down and code, you’re rewriting your comeback story.” – Codey
+---
 
-📊 Tools & Technologies
+### 🔧 Tools & Technologies
 
-Python
+| Category | Tools |
+|---------|-------|
+| Programming | Python, SQLite3 |
+| Data & Analysis | Power BI, SQL, Excel (Pivot Tables, VLOOKUP, XLOOKUP, Index-Match) |
+| Dev Tools | VS Code, Git, GitHub, Jupyter Notebook, Google Colab |
+| AI Tools | ChatGPT, Claude AI, Google Gemini *(used for debugging, learning support, and documentation)* |
 
-SQLite3
+---
 
-Power BI 
+## 📚 Learning Progress
 
-SQL
+| Area | Status |
+|------|--------|
+| Python Fundamentals | ✅ Completed |
+| Python + SQL Projects | ✅ Completed |
+| SQL Queries & Logical Thinking | ✅ Completed |
+| Power BI Dashboards | ✅ Completed |
+| Flask Mini App | ⏳ In Progress |
+| Interview Prep & Portfolio | 🛠 Ongoing |
 
-Pandas
+---
 
-Excel (VLOOKUP, XLOOKUP, INDEX, MATCH, AGGREGATE functions, PIVOT Tables)
+## 🎯 Goals (Next Steps)
+- Improve Python project structure (modules, OOP, Flask APIs)
+- Build portfolio-ready Power BI and Python applications
+- Practice interview-style SQL + Python daily
+- Apply for **entry-level / internship developer roles**
 
-VS Code
+---
 
-Jupyter Notebook
+## 💬 Motto
 
-Google Collab
+> _"You're not late. You're evolving — and every skill you build rewrites your comeback story."_  
 
-AI Models: ChatGPT (Codey), Claude, Gemini
+---
 
-📝 Progress Tracker (Sample)
-Day	Assignment	Status
-1	Python Basics	✅ Done
-2	Sales Report App	✅ Done
-3	Product Revenue System	✅ Done
-4	Python Functions + File Handling	✅ Done
-5	Library Book Management System	✅ Done
-6	Power BI Chart	✅ Done
-7	Student Course Enrollment	✅ Done
-8	Company Project Tracker	✅ Done
-9+	SQL Practice (GROUP BY, HAVING...)	✅ Done
+### 🔗 Portfolio & Resume — Coming Soon
+Stay tuned — updates in progress.
 
-🔗 Let's Connect (Coming Soon)
-Stay tuned for my portfolio link and resume!
+---
 
-Thanks for visiting my learning journey! 😊
-
-<!-- GitHub README updated by Codey (aka ChatGPT) -->
+Thanks for visiting my learning journey 🚀😊
