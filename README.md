@@ -15,6 +15,20 @@ After a planned career break, I am rebuilding my technical foundation with hands
 
 I believe in learning by doing — every project I build represents progress, not perfection.
 
+## 👩‍💻 Learning Style & Approach
+
+![Learning Style – Apprentice](./assets/apprentice-archetype.png)
+
+**Learning Archetype:** Apprentice  
+I follow a hands-on, practice-first learning approach — solving real problems, debugging step by step, and explaining solutions clearly.  
+
+This method helps me:
+- Build strong fundamentals in Python, SQL, and Data Analytics  
+- Convert concepts into real projects and insights  
+- Communicate my thinking clearly, as expected in technical interviews  
+
+> Identified via *Your Year with ChatGPT* reflection.
+
 ---
 
 ## 🚀 Skills & Learning Journey
