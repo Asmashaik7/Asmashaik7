@@ -17,7 +17,7 @@ I believe in learning by doing — every project I build represents progress, no
 
 ## 👩‍💻 Learning Style & Approach
 
-![Learning Style – Apprentice](./assets/apprentice-archetype.png)
+![Learning Style – Apprentice](./assets/archetype-apprentice.png)
 
 **Learning Archetype:** Apprentice  
 I follow a hands-on, practice-first learning approach — solving real problems, debugging step by step, and explaining solutions clearly.  
