@@ -17,15 +17,8 @@ I believe in learning by doing — every project I build represents progress, no
 
 ## 👩‍💻 Learning Style & Approach
 
-![Learning Style – Apprentice](./assets/archetype-apprentice.png)
-
 **Learning Archetype:** Apprentice  
-I follow a hands-on, practice-first learning approach — solving real problems, debugging step by step, and explaining solutions clearly.  
-
-This method helps me:
-- Build strong fundamentals in Python, SQL, and Data Analytics  
-- Convert concepts into real projects and insights  
-- Communicate my thinking clearly, as expected in technical interviews  
+I follow a hands-on, practice-first learning approach — solving real problems, debugging step by step, and explaining solutions clearly. 
 
 > Identified via *Your Year with ChatGPT* reflection.
 
@@ -33,31 +26,42 @@ This method helps me:
 
 ## 🚀 Skills & Learning Journey
 
-### 🐍 Python
+### 🐍 Python (Beginner → Intermediate)
 - Core syntax, functions, loops, error handling
 - File handling, user input, modular code structure
 - Beginner OOP concepts (classes, objects)
 - Python + SQLite integration
 - Flask basics (routing, templates)
+- Statistics Basics
+- Debugging & problem-solving approach
+  
 
-#### 🛠 Python Projects:
+### 🛠 Python Projects - Pandas, Matplotlib, Seaborn(Completed)
+
+- HR Analytics - Employee Performance and Retention Analysis→ Data cleaning, KPIs, insights writing, business insight
+
+- Diwali Sales Retail Analysis (EDA + KPIs) → Cleaning, grouping, trend findings , business insight
+
+#### 🛠 Sqlite & Python Projects:
 - Company Project Tracker (CRUD + SQL)
 - Student Course Enrollment System
 - Library Management CLI System
-- Mini Flask Web App
 
 ---
 
-### 🧠 SQL
+### 🧠 SQL (Practical + Business Logic)
 - SELECT, DISTINCT, WHERE, ORDER BY
 - Aggregate functions: COUNT(), SUM(), AVG(), MAX(), MIN()
 - JOINs (INNER, LEFT), Subqueries
 - GROUP BY, HAVING, COUNT DISTINCT
 - CRUD operations and real problem solving
+  
+#### 📁 SQL Projects (Completed)
+- Chinook Music Store Analysis → Joins, revenue insights, genre/customer KPIs
 
 ---
 
-### 📊 Power BI
+### 📊 Power BI (Industry-Focused Reporting)
 - Data modeling (Fact vs Dimension)
 - ETL concepts, Data cleaning, Relationships
 - Creating dashboards and reports
@@ -78,7 +82,7 @@ This method helps me:
 | Category | Tools |
 |---------|-------|
 | Programming | Python, SQLite3 |
-| Data & Analysis | Power BI, SQL, Excel (Pivot Tables, VLOOKUP, XLOOKUP, Index-Match) |
+| Data & Analysis | Pandas and its libraries, Power BI, SQL, Excel (Pivot Tables, VLOOKUP, XLOOKUP, Index-Match) |
 | Dev Tools | VS Code, Git, GitHub, Jupyter Notebook, Google Colab |
 | AI Tools | ChatGPT, Claude AI, Google Gemini *(used for debugging, learning support, and documentation)* |
 
@@ -89,31 +93,16 @@ This method helps me:
 | Area | Status |
 |------|--------|
 | Python Fundamentals | ✅ Completed |
+| Python - Pandas, Matplotlib, Seaborn | ✅ Completed |
 | Python + SQL Projects | ✅ Completed |
 | SQL Queries & Logical Thinking | ✅ Completed |
 | Power BI Dashboards | ✅ Completed |
-| Flask Mini App | ⏳ In Progress |
 | Interview Prep & Portfolio | 🛠 Ongoing |
-
----
-
-## 🎯 Goals (Next Steps)
-- Improve Python project structure (modules, OOP, Flask APIs)
-- Build portfolio-ready Power BI and Python applications
-- Practice interview-style SQL + Python daily
-- Apply for **entry-level / internship developer roles**
 
 ---
 
 ## 💬 Motto
 
 > _"You're not late. You're evolving — and every skill you build rewrites your comeback story."_  
-
----
-
-### 🔗 Portfolio & Resume — Coming Soon
-Stay tuned — updates in progress.
-
----
 
 Thanks for visiting my learning journey 🚀😊
