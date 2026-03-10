@@ -1,108 +1,106 @@
-👋 Hi, I'm **Asma Shaik**
+# 👋 Hi, I'm Asma Shaik
 
-🌱 **Tech Learning Journey: Python | SQL | Power BI | Projects & Progress**  
-📚 Continuous Learner | 💡 Self-Driven & Consistent  
+### 🎯 Data Analyst | Business Analyst
+**SQL • Python • Power BI • Data Storytelling**
 
-🧠 Learning consistently and confidently through real, hands-on projects  
-🔁 Returning to tech after a planned career break and rebuilding my skills step by step
-
----
-
-## 🌱 About Me
-
-I'm transitioning into the tech field with a focus on **Python development, SQL, and Power BI**.  
-After a planned career break, I am rebuilding my technical foundation with hands-on projects, structured learning, and consistent practice.
-
-I believe in learning by doing — every project I build represents progress, not perfection.
-
-## 👩‍💻 Learning Style & Approach
-
-**Learning Archetype:** Apprentice  
-I follow a hands-on, practice-first learning approach — solving real problems, debugging step by step, and explaining solutions clearly. 
-
-> Identified via *Your Year with ChatGPT* reflection.
+📍 Telangana, India &nbsp;|&nbsp; 📧 asmashaik.nov11@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/shaik-asma-nov11)
 
 ---
 
-## 🚀 Skills & Learning Journey
+## 👩‍💻 About Me
 
-### 🐍 Python (Beginner → Intermediate)
-- Core syntax, functions, loops, error handling
-- File handling, user input, modular code structure
-- Beginner OOP concepts (classes, objects)
-- Python + SQLite integration
-- Flask basics (routing, templates)
-- Statistics Basics
-- Debugging & problem-solving approach
-  
+I'm a **career-changer and returning professional** transitioning from 5 years as an SEO Analyst into Data Analytics and Business Analysis.
 
-### 🛠 Python Projects - Pandas, Matplotlib, Seaborn(Completed)
+After a planned career break, I rebuilt my technical skills from scratch — working through **8+ real-world analytics projects** in SQL, Python, and Power BI. I bring a unique combination of **business domain knowledge** (from SEO and travel industry experience) and **hands-on data skills** developed through consistent self-learning.
 
-- HR Analytics - Employee Performance and Retention Analysis→ Data cleaning, KPIs, insights writing, business insight
+I believe in learning by doing — every project I build represents real understanding, not just course completion.
 
-- Diwali Sales Retail Analysis (EDA + KPIs) → Cleaning, grouping, trend findings , business insight
-
-#### 🛠 Sqlite & Python Projects:
-- Company Project Tracker (CRUD + SQL)
-- Student Course Enrollment System
-- Library Management CLI System
+> *"You're not late. You're evolving — and every skill you build rewrites your comeback story."*
 
 ---
 
-### 🧠 SQL (Practical + Business Logic)
-- SELECT, DISTINCT, WHERE, ORDER BY
-- Aggregate functions: COUNT(), SUM(), AVG(), MAX(), MIN()
-- JOINs (INNER, LEFT), Subqueries
-- GROUP BY, HAVING, COUNT DISTINCT
-- CRUD operations and real problem solving
-  
-#### 📁 SQL Projects (Completed)
-- Chinook Music Store Analysis → Joins, revenue insights, genre/customer KPIs
+## 🚀 Featured Projects
+
+### 📊 Data Analytics & Business Analysis
+
+| Project | Tools | Key Highlight |
+|---------|-------|---------------|
+| [Brazilian E-Commerce Analysis (Olist)](https://github.com/Asmashaik7) | SQL Server, T-SQL | Analyzed 100K+ orders across 15 business questions — identified 97% one-time buyer retention gap |
+| [HR Analytics — Employee Performance & Retention](https://github.com/Asmashaik7) | Python, Pandas, Matplotlib | Analyzed 17,415 employee records — found referred employees had 53% KPI success vs 35% others |
+| [Diwali Sales Retail Analysis](https://github.com/Asmashaik7) | Python, Pandas, Seaborn | Analyzed 11,251 transactions — female customers aged 26–35 generated ₹74.3M vs ₹31.8M by males |
+| [Credit Card Transaction & Customer Analysis](https://github.com/Asmashaik7) | SQL Server, Power BI, DAX | Built 3-page dashboard on $57M revenue — wrote 7 DAX formulas including WoW revenue ratio |
+| [Super Stores Sales Dashboard & Forecasting](https://github.com/Asmashaik7) | Power BI, DAX | Built custom date calendar tables after 4 days of independent problem solving — enabled YoY analysis |
+| [Chinook Music Store — SQL Analysis](https://github.com/Asmashaik7) | SQL Server, T-SQL | Built UDFs, Views, window functions — resolved FK constraint error using sp_fkeys |
 
 ---
 
-### 📊 Power BI (Industry-Focused Reporting)
-- Data modeling (Fact vs Dimension)
-- ETL concepts, Data cleaning, Relationships
-- Creating dashboards and reports
-- DAX basics (measures, calculated columns)
-- Time-Series forecasting visuals
-- Publishing to Power BI Service
+### 🌍 AI-Assisted Application
 
-#### 📁 Power BI Projects:
-- Credit Card Customer & Transaction Insights
-- Superstore Sales Analysis Dashboard
-- SN Corps Sales Performance Dashboard
-- Sales Forecasting (Time-Series)
+| Project | Tools | Key Highlight |
+|---------|-------|---------------|
+| [MyTravelBuddy — Travel Web App](https://mytravelbuddyapp.netlify.app) | React.js, Tailwind CSS, Netlify | Live deployed app — built using GenAI tools, inspired by 5 years in UK travel industry |
+
+🔗 **Live Demo:** [mytravelbuddyapp.netlify.app](https://mytravelbuddyapp.netlify.app)
 
 ---
 
-### 🔧 Tools & Technologies
+## 🛠️ Technical Skills
 
-| Category | Tools |
-|---------|-------|
-| Programming | Python, SQLite3 |
-| Data & Analysis | Pandas and its libraries, Power BI, SQL, Excel (Pivot Tables, VLOOKUP, XLOOKUP, Index-Match) |
-| Dev Tools | VS Code, Git, GitHub, Jupyter Notebook, Google Colab |
-| AI Tools | ChatGPT, Claude AI, Google Gemini *(used for debugging, learning support, and documentation)* |
+| Category | Skills |
+|----------|--------|
+| **Languages & Databases** | Python, SQL (T-SQL / SQL Server), SQLite |
+| **Analytics & BI Tools** | Power BI (DAX, M Query), Excel (Pivot Tables, VLOOKUP) |
+| **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Requests |
+| **Tools & Platforms** | Jupyter Notebook, VS Code, Git/GitHub, REST APIs, JSON, React.js (Basic), Netlify |
+| **Core Skills** | Data Cleaning, EDA, Statistical Analysis, Data Visualization, Dashboard Development, KPI Tracking, Business Reporting |
+| **AI Tools** | ChatGPT, Claude AI, Google Gemini *(used for learning support, debugging, and documentation)* |
 
 ---
 
-## 📚 Learning Progress
+## 📈 Learning Progress
 
 | Area | Status |
 |------|--------|
 | Python Fundamentals | ✅ Completed |
-| Python - Pandas, Matplotlib, Seaborn | ✅ Completed |
-| Python + SQL Projects | ✅ Completed |
-| SQL Queries & Logical Thinking | ✅ Completed |
-| Power BI Dashboards | ✅ Completed |
-| Interview Prep & Portfolio | 🛠 Ongoing |
+| Python — Pandas, Matplotlib, Seaborn | ✅ Completed |
+| SQL — T-SQL / SQL Server | ✅ Completed |
+| Power BI — DAX, Dashboards, Forecasting | ✅ Completed |
+| REST API Integration (Python) | ✅ Completed |
+| React.js — Basic Web App Development | ✅ Completed |
+| Interview Prep & Portfolio | 🔄 Ongoing |
+| Advanced SQL Project | 🔄 In Progress |
 
 ---
 
-## 💬 Motto
+## 💼 Professional Background
 
-> _"You're not late. You're evolving — and every skill you build rewrites your comeback story."_  
+**SEO Analyst** — Teletext India Pvt. Ltd. & Blighty India Pvt. Ltd. | 2010–2015
+- Worked on UK travel booking platforms — **BeatTheBrochure & Teletext Holidays**
+- Data-driven reporting using Google Analytics and Excel dashboards
+- Weekly/monthly stakeholder reporting on CTR, bounce rate, conversions, organic traffic
 
-Thanks for visiting my learning journey 🚀😊
+*Career Break: 2015–2025 (Personal/Family Responsibilities)*
+*Returned 2024 — rebuilt technical skills through intensive self-learning and project work*
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Master of Computer Applications (MCA)** — 71% Distinction | 2006–2009
+- 📊 **Business Analytics with AI** — Internshala | December 2025
+- 📈 **Power BI & Python Training** — Dhyana Mano Prasthanam Spoorthi Classes | 2024–2025
+- 🤖 **AI Generalist Workshop** — Outskill | 2025
+
+---
+
+## 📬 Let's Connect!
+
+I'm actively looking for **Data Analyst** and **Business Analyst** opportunities in Hyderabad or Remote.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shaik-asma-nov11)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asmashaik.nov11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live%20App-MyTravelBuddy-green)](https://mytravelbuddyapp.netlify.app)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects and reach out.* 😊
