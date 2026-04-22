@@ -25,13 +25,12 @@ I believe in learning by doing — every project I build represents real underst
 
 | Project | Tools | Key Highlight |
 |---------|-------|---------------|
-| [Brazilian E-Commerce Analysis (Olist)](https://github.com/Asmashaik7) | SQL Server, T-SQL | Analyzed 100K+ orders across 15 business questions — identified 97% one-time buyer retention gap |
-| [HR Analytics — Employee Performance & Retention](https://github.com/Asmashaik7) | Python, Pandas, Matplotlib | Analyzed 17,415 employee records — found referred employees had 53% KPI success vs 35% others |
-| [Diwali Sales Retail Analysis](https://github.com/Asmashaik7) | Python, Pandas, Seaborn | Analyzed 11,251 transactions — female customers aged 26–35 generated ₹74.3M vs ₹31.8M by males |
-| [Credit Card Transaction & Customer Analysis](https://github.com/Asmashaik7) | SQL Server, Power BI, DAX | Built 3-page dashboard on $57M revenue — wrote 7 DAX formulas including WoW revenue ratio |
-| [Super Stores Sales Dashboard & Forecasting](https://github.com/Asmashaik7) | Power BI, DAX | Built custom date calendar tables after 4 days of independent problem solving — enabled YoY analysis |
-| [Chinook Music Store — SQL Analysis](https://github.com/Asmashaik7) | SQL Server, T-SQL | Built UDFs, Views, window functions — resolved FK constraint error using sp_fkeys |
-
+| [Brazilian E-Commerce Analysis (Olist)](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/SQL_Projects/olist_ecommerce) | SQL Server, T-SQL | Analyzed 100K+ orders across 15 business questions — identified 97% one-time buyer retention gap |
+| [HR Analytics — Employee Performance & Retention](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/Python_Projects/HR_Analytics_Employee_Performance_and_Retention) | Python, Pandas, Matplotlib | Analyzed 17,415 employee records — found referred employees had 53% KPI success vs 35% others |
+| [Diwali Sales Retail Analysis](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/Python_Projects/Sales_Analytics_Diwali_Retail) | Python, Pandas, Seaborn | Analyzed 11,251 transactions — female customers aged 26–35 generated ₹74.3M vs ₹31.8M by males |
+| [Credit Card Transaction & Customer Analysis](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/PowerBI_Projects/Credit_Card_Financial_Analytics) | SQL Server, Power BI, DAX | Built 3-page dashboard on $57M revenue — wrote 7 DAX formulas including WoW revenue ratio |
+| [Super Stores Sales Dashboard & Forecasting](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/PowerBI_Projects/superstore_sales_dashboard) | Power BI, DAX | Built custom date calendar tables after 4 days of independent problem solving — enabled YoY analysis |
+| [Chinook Music Store — SQL Analysis](https://github.com/Asmashaik7/Data_Analytics_Portfolio/tree/main/SQL_Projects/chinook)) | SQL Server, T-SQL, Python, Pandas, Matplotlib, Seaborn | SQL analysis with 10 Python visualizations — connected SQL Server directly to Python via pyodbc |
 ---
 
 ### 🌍 AI-Assisted Application
@@ -49,10 +48,12 @@ I believe in learning by doing — every project I build represents real underst
 | Category | Skills |
 |----------|--------|
 | **Languages & Databases** | Python, SQL (T-SQL / SQL Server), SQLite |
-| **Analytics & BI Tools** | Power BI (DAX, M Query), Excel (Pivot Tables, VLOOKUP) |
-| **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Requests |
-| **Tools & Platforms** | Jupyter Notebook, VS Code, Git/GitHub, REST APIs, JSON, React.js (Basic), Netlify |
-| **Core Skills** | Data Cleaning, EDA, Statistical Analysis, Data Visualization, Dashboard Development, KPI Tracking, Business Reporting |
+| **Analytics & BI Tools** | Power BI (DAX, M Query), Excel (Pivot Tables, VLOOKUP, HLOOKUP, 
+INDEX MATCH, SUMIF, COUNTIF, IF, Conditional Formatting, Power Query) |
+| **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Requests  |
+| **Tools & Platforms** | Jupyter Notebook, VS Code, Git/GitHub, REST APIs, JSON, React.js (Basic), Netlify, pyodbc, SQLAlchemy |
+| **Core Skills** | Data Cleaning, EDA, Statistical Analysis, Data Visualization, 
+Dashboard Development, KPI Tracking, Business Reporting, Data Storytelling |
 | **AI Tools** | ChatGPT, Claude AI, Google Gemini *(used for learning support, debugging, and documentation)* |
 
 ---
@@ -67,8 +68,8 @@ I believe in learning by doing — every project I build represents real underst
 | Power BI — DAX, Dashboards, Forecasting | ✅ Completed |
 | REST API Integration (Python) | ✅ Completed |
 | React.js — Basic Web App Development | ✅ Completed |
+| Advanced SQL Project |  ✅ Completed |
 | Interview Prep & Portfolio | 🔄 Ongoing |
-| Advanced SQL Project | 🔄 In Progress |
 
 ---
 
