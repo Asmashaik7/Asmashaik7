@@ -51,7 +51,7 @@ I believe in learning by doing — every project I build represents real underst
 | **Languages & Databases** | Python, SQL (T-SQL / SQL Server), SQLite |
 | **Analytics & BI Tools** | Power BI (DAX, M Query), Excel (Pivot Tables, VLOOKUP, HLOOKUP, INDEX MATCH, SUMIF, COUNTIF, IF, Conditional Formatting, Power Query) |
 | **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Requests |
-| **Tools & Platforms** | Jupyter Notebook, VS Code, Git/GitHub, REST APIs, JSON, React.js (Basic), Netlify, pyodbc, SQLAlchemy |
+| **Tools & Platforms** | Jupyter Notebook, VS Code, Git/GitHub, REST APIs, JSON, React.js (Basic), Netlify|
 | **Core Skills** | Data Cleaning, EDA, Statistical Analysis, Data Visualization, Dashboard Development, KPI Tracking, Business Reporting, Data Storytelling |
 | **AI Tools** | ChatGPT, Claude AI, Google Gemini *(used for learning support, debugging, and documentation)* |
 
